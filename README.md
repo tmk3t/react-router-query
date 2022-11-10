@@ -1,2 +1,6 @@
-# react-router-query
-Created with CodeSandbox
+# React Router Example
+
+To run this example:
+
+- `npm install`
+- `npm run dev`
